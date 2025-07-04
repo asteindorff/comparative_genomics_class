@@ -1,1 +1,1 @@
-# comparative_genomics_class
+# Comparative genomics class - PPGCB - UFG
